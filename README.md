@@ -12,6 +12,8 @@ Today, we will review the basics of tkinter including:
 * entering values into entry widgets
 
 Assigment:
+
+Task 1: Factoring
 Create a program to factor a basic trinomial in the format x^2 + bc + c.
 You cannot use the quadratic formula.  You must think about how a regular person would factor the trinomial and use that algorithm.
 
@@ -19,6 +21,13 @@ Create a tkinter interface that uses 3 entry widgets to retrieve values for a, b
 Display the factored form in a 4th entry widget.
 You will also need to add a button for the user to press when they are ready to factor.  This button should be bound to the function that will factor the trinomial.
 
-Task 1: Use the .pack() method to create your interface
-Task 2: Use the .grid() method to create your interface
-Task 3: Use the .place() method to create your interface.
+Task 1a: Use the .pack() method to create your interface
+Task 1b: Use the .grid() method to create your interface
+Task 1c: Use the .place() method to create your interface.
+
+
+Task 2: Interface for weather program
+Create an interface to display the current weather condtions.
+
+Challenge:
+Find out how to retrieve the latitude/longitude for a city and add an option to choose the city and get the current weather conditions there.
