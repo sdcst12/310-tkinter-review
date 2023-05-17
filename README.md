@@ -30,4 +30,5 @@ Task 2: Interface for weather program
 Create an interface to display the current weather condtions.
 
 Challenge:
-Find out how to retrieve the latitude/longitude for a city and add an option to choose the city and get the current weather conditions there.
+Find out how to retrieve the latitude/longitude for a city and add an option to choose the city and get the current weather conditions there. You can use their geocoding api to help you:
+https://openweathermap.org/api/geocoding-api
